@@ -1,286 +1,281 @@
-Source,Weight,Target
-Gary E Stevenson,3,Russell M Nelson
-Alan R Walker,1,Russell M Nelson
-Ronald M Barcellos,2,Russell M Nelson
-Sean Douglas,3,Russell M Nelson
-Edward B Rowe,2,Russell M Nelson
-Kelly R Johnson,3,Russell M Nelson
-Paul H Sinclair,1,Russell M Nelson
-Chad H Webb,6,Russell M Nelson
-Pedro X Larreal,1,Russell M Nelson
-Steven C Barlow,3,Russell M Nelson
-Timothy L Farnes,1,Russell M Nelson
-Carlos A Godoy,1,Russell M Nelson
-Peter M Johnson,3,Russell M Nelson
-David A Bednar,1,Russell M Nelson
-Clark G Gilbert,9,Russell M Nelson
-Matthew J Eyring,1,Russell M Nelson
-Hutch U Fale,3,Russell M Nelson
-Ronald A Rasband,1,Russell M Nelson
-Gerald Causse,1,Russell M Nelson
-James E Evanson,4,Russell M Nelson
-Michael Cziesla,6,Russell M Nelson
-Quentin L Cook,8,Russell M Nelson
-Dallin H Oaks,3,Russell M Nelson
-D Todd Christofferson,3,Russell M Nelson
-Patrick Kearon,4,Russell M Nelson
-Kristin M Yee,5,Russell M Nelson
-Brik V Eyre,1,Russell M Nelson
-Neil L Andersen,1,Russell M Nelson
-Rosemary K Chibota,1,Russell M Nelson
-Ozani Farias,1,Russell M Nelson
-John D Amos,5,Russell M Nelson
-Dieter F Uchtdorf,2,Russell M Nelson
-Ulisses Soares,2,Russell M Nelson
-Andrea Munoz Spannaus,2,Russell M Nelson
-Matthew S Holland,2,Russell M Nelson
-David J Wunderli,2,Russell M Nelson
-B Corey Cuvelier,2,Russell M Nelson
-Gerrit W Gong,1,Russell M Nelson
-Dale G Renlund,6,Russell M Nelson
-Kevin G Brown,3,Russell M Nelson
-Tracy Y Browning,2,Russell M Nelson
-Jeremy R Jaggi,3,Russell M Nelson
-Edward Dube,1,Russell M Nelson
-Aaron T Hall,1,Russell M Nelson
-J Anette Dennis,1,Russell M Nelson
-Edward B Rowe,2,Dallin H Oaks
-David J Wunderli,2,Dallin H Oaks
-Kristin M Yee,2,Dallin H Oaks
-Ronald A Rasband,3,Dallin H Oaks
-Dale G Renlund,4,Dallin H Oaks
-Patricio M Giuffra,1,Dallin H Oaks
-Hutch U Fale,2,Dallin H Oaks
-Neil L Andersen,6,Dallin H Oaks
-Kevin G Brown,1,Dallin H Oaks
-Thierry K Mutombo,2,Dallin H Oaks
-Steven C Barlow,1,Dallin H Oaks
-Eduardo F Ortega,1,Dallin H Oaks
-Alan R Walker,1,Dallin H Oaks
-Edward Dube,1,Dallin H Oaks
-Dieter F Uchtdorf,1,Dallin H Oaks
-J Anette Dennis,2,Dallin H Oaks
-Thabo Lebethoa,1,Dallin H Oaks
-Gerrit W Gong,3,Dallin H Oaks
-Christian C Chigbundu,1,Dallin H Oaks
-David A Bednar,1,Dallin H Oaks
-Clark G Gilbert,9,Dallin H Oaks
-Michael John U Teh,4,Dallin H Oaks
-Wan Liang Wu,1,Dallin H Oaks
-Brian J Holmes,3,Dallin H Oaks
-Gary E Stevenson,2,Dallin H Oaks
-Paul H Sinclair,2,Dallin H Oaks
-Ciro Schmeil,1,Dallin H Oaks
-Ulisses Soares,1,Dallin H Oaks
-Rosemary K Chibota,1,Dallin H Oaks
-Gabriel W Reid,1,Dallin H Oaks
-Tracy Y Browning,1,Dallin H Oaks
-Sean Douglas,2,Dallin H Oaks
-D Todd Christofferson,4,Dallin H Oaks
-Aaron T Hall,1,Dallin H Oaks
-John D Amos,1,Dallin H Oaks
-Susan H Porter,1,Dallin H Oaks
-Pedro X Larreal,2,Dallin H Oaks
-Chi Hong Wong,1,Dallin H Oaks
-Alfred Kyungu,3,Dallin H Oaks
-Matthew J Eyring,2,Dallin H Oaks
-Andrea Munoz Spannaus,3,Dallin H Oaks
-Jeremy R Jaggi,1,Dallin H Oaks
-Jeremiah J Morgan,1,Dallin H Oaks
-Patrick Kearon,2,Dallin H Oaks
-Taniela B Wakolo,1,Dallin H Oaks
-Quentin L Cook,1,Dallin H Oaks
-Gary E Stevenson,3,Dieter F Uchtdorf
-Dale G Renlund,1,Dieter F Uchtdorf
-Thabo Lebethoa,1,Dieter F Uchtdorf
-Kevin G Brown,1,Dieter F Uchtdorf
-Michael Cziesla,2,Dieter F Uchtdorf
-Patrick Kearon,1,Dieter F Uchtdorf
-Hutch U Fale,1,Dieter F Uchtdorf
-Michael A Dunn,1,Dieter F Uchtdorf
-Kristin M Yee,1,Dieter F Uchtdorf
-Paul H Sinclair,3,Dieter F Uchtdorf
-Andrea Munoz Spannaus,1,Dieter F Uchtdorf
-Gary E Stevenson,1,John A Widtsoe
-Tracy Y Browning,1,Aurelia Spencer Rogers
-Dieter F Uchtdorf,1,Henry B Eyring
-Christian C Chigbundu,1,Henry B Eyring
-Quentin L Cook,1,Henry B Eyring
-J Anette Dennis,1,Henry B Eyring
-Tracy Y Browning,1,Henry B Eyring
-Dale G Renlund,1,Henry B Eyring
-Patrick Kearon,1,Henry B Eyring
-Hutch U Fale,1,Henry B Eyring
-Andrea Munoz Spannaus,1,Henry B Eyring
-Brik V Eyre,1,Susan H Porter
-Steven C Barlow,1,Patrick Kearon
-Michael Cziesla,1,Patrick Kearon
-J Anette Dennis,1,Patrick Kearon
-Kevin J Hathaway,1,Patrick Kearon
-David J Wunderli,1,Patrick Kearon
-Aaron T Hall,1,Patrick Kearon
-Jeremiah J Morgan,1,Patrick Kearon
-Dallin H Oaks,1,Patrick Kearon
-Brik V Eyre,1,Patrick Kearon
-Paul H Sinclair,1,Patrick Kearon
-Hutch U Fale,1,Patrick Kearon
-Kevin G Brown,1,Patrick Kearon
-Timothy L Farnes,1,Patrick Kearon
-Michael Cziesla,1,Jeffrey R Holland
-Brik V Eyre,1,Jeffrey R Holland
-Kevin G Brown,1,Jeffrey R Holland
-J Anette Dennis,1,Jeffrey R Holland
-Patrick Kearon,1,Jeffrey R Holland
-Steven C Barlow,1,Jeffrey R Holland
-Vaiangina Sikahema,1,Jeffrey R Holland
-Kristin M Yee,1,Jeffrey R Holland
-Jeremiah J Morgan,1,Jeffrey R Holland
-Clark G Gilbert,2,Jeffrey R Holland
-Dieter F Uchtdorf,1,Marvin J Ashton
-Clark G Gilbert,1,Ronald A Rasband
-Hutch U Fale,1,Ronald A Rasband
-Ronald A Rasband,3,Ronald A Rasband
-Paul H Sinclair,1,Ronald A Rasband
-Eduardo F Ortega,1,Ronald A Rasband
-Ronald A Rasband,2,Elaine L Jack
-Jorge T Becerra,1,Gordon B Hinckley
-Kevin G Brown,1,Gordon B Hinckley
-Neil L Andersen,1,Gordon B Hinckley
-D Todd Christofferson,1,Gordon B Hinckley
-Patrick Kearon,1,Gordon B Hinckley
-Ronald A Rasband,3,Gordon B Hinckley
-Quentin L Cook,1,Gordon B Hinckley
-Dallin H Oaks,2,Spencer W Kimball
-Ronald A Rasband,1,Spencer W Kimball
-Rosemary K Chibota,1,Spencer W Kimball
-Henry B Eyring,1,Spencer W Kimball
-Quentin L Cook,2,Spencer W Kimball
-Patrick Kearon,1,Spencer W Kimball
-Gerald Causse,1,Spencer W Kimball
-James E Evanson,1,David A Bednar
-Jeremy R Jaggi,1,David A Bednar
-Hutch U Fale,1,David A Bednar
-Gary E Stevenson,1,David A Bednar
-Carlos A Godoy,1,David A Bednar
-Paul H Sinclair,1,David A Bednar
-Kevin G Brown,1,David A Bednar
-Quentin L Cook,1,David A Bednar
-Gerrit W Gong,1,David A Bednar
-David A Bednar,1,David A Bednar
-Thierry K Mutombo,1,David A Bednar
-Brian J Holmes,1,David A Bednar
-Jeremiah J Morgan,1,David A Bednar
-Chad H Webb,1,David A Bednar
-Chi Hong Wong,1,David A Bednar
-Moises Villanueva,1,David A Bednar
-D Todd Christofferson,1,David A Bednar
-Gabriel W Reid,1,David A Bednar
-Neil L Andersen,1,David A Bednar
-Jorge T Becerra,1,David A Bednar
-Kristin M Yee,1,David A Bednar
-Chad H Webb,1,Robert D Hales
-Chad H Webb,1,Boyd K Packer
-David A Bednar,1,Boyd K Packer
-Hutch U Fale,1,Dale G Renlund
-Jeremy R Jaggi,1,Dale G Renlund
-Peter M Johnson,1,Dale G Renlund
-Ciro Schmeil,2,Dale G Renlund
-Paul H Sinclair,2,Dale G Renlund
-Tamara W Runia,1,Dale G Renlund
-Steven C Barlow,2,Dale G Renlund
-Aaron T Hall,2,Dale G Renlund
-Paul H Sinclair,1,Quentin L Cook
-Jeremy R Jaggi,1,Quentin L Cook
-Hutch U Fale,1,Quentin L Cook
-Kristin M Yee,1,Quentin L Cook
-Clark G Gilbert,1,Quentin L Cook
-John D Amos,1,Quentin L Cook
-J Anette Dennis,1,Quentin L Cook
-Clement M Matswagothata,1,D Todd Christofferson
-Alan R Walker,1,D Todd Christofferson
-Tamara W Runia,1,D Todd Christofferson
-Hutch U Fale,2,D Todd Christofferson
-Brian J Holmes,1,D Todd Christofferson
-Quentin L Cook,1,D Todd Christofferson
-Clark G Gilbert,1,D Todd Christofferson
-Jeremy R Jaggi,1,D Todd Christofferson
-Paul H Sinclair,1,D Todd Christofferson
-Kevin G Brown,1,D Todd Christofferson
-Clark G Gilbert,2,Neil L Andersen
-Hutch U Fale,1,Neil L Andersen
-Jeremy R Jaggi,1,Neil L Andersen
-Neil L Andersen,1,Neil L Andersen
-Jeremy R Jaggi,1,Patricia T Holland
-Kevin G Brown,1,Alexander Dushku
-Gerrit W Gong,1,Jedediah M Grant
-Gerrit W Gong,1,Heber C Kimball
-Dallin H Oaks,1,David O McKay
-Quentin L Cook,3,David O McKay
-Gerrit W Gong,1,David O McKay
-Neil L Andersen,1,David O McKay
-David A Bednar,1,David O McKay
-Quentin L Cook,1,Gary E Stevenson
-Dale G Renlund,1,Gary E Stevenson
-Hutch U Fale,1,Gary E Stevenson
-Michael Cziesla,1,Gary E Stevenson
-Andrea Munoz Spannaus,1,Gary E Stevenson
-Kristin M Yee,1,Gary E Stevenson
-Michael Cziesla,2,M Russell Ballard
-Dale G Renlund,1,M Russell Ballard
-Ronald A Rasband,1,Thomas S Monson
-Michael Cziesla,1,Thomas S Monson
-Alfred Kyungu,1,Thomas S Monson
-Steven C Barlow,1,Thomas S Monson
-Hutch U Fale,2,Gerrit W Gong
-Taniela B Wakolo,1,Gerrit W Gong
-Paul H Sinclair,1,Gerrit W Gong
-Quentin L Cook,1,Gerrit W Gong
-Alfred Kyungu,1,Gerrit W Gong
-Patrick Kearon,1,Shayne M Bowen
-Ulisses Soares,1,Joseph F Smith
-Patrick Kearon,1,Joseph F Smith
-Alfred Kyungu,1,Ulisses Soares
-J Anette Dennis,1,Ulisses Soares
-Hutch U Fale,1,Ulisses Soares
-Clark G Gilbert,1,J Anette Dennis
-J Anette Dennis,2,J Anette Dennis
-J Anette Dennis,1,Robert C Gay
-J Anette Dennis,1,Tamara W Runia
-Thabo Lebethoa,1,Tamara W Runia
-Steven C Barlow,1,Tamara W Runia
-Clark G Gilbert,2,Tamara W Runia
-Thierry K Mutombo,1,Ezra Taft Benson
-Susan H Porter,1,Ezra Taft Benson
-Steven C Barlow,1,Ezra Taft Benson
-Ulisses Soares,1,Lucy Mack Smith
-Peter M Johnson,1,Peter M Johnson
-Carlos A Godoy,1,James E Faust
-Neil L Andersen,1,James E Faust
-Clark G Gilbert,4,Clark G Gilbert
-Hutch U Fale,1,Clark G Gilbert
-Paul H Sinclair,1,Clark G Gilbert
-John D Amos,1,Clark G Gilbert
-Kristin M Yee,1,Kristin M Yee
-Kristin M Yee,1,Camille N Johnson
-Kristin M Yee,1,James E Talmage
-Clark G Gilbert,1,Kathy Andersen
-Clark G Gilbert,1,Lawrence E Corbridge
-Clark G Gilbert,1,Robert S Wood
-Clark G Gilbert,2,Kristen M Oaks
-David J Wunderli,1,Richard G Scott
-Gerald Causse,1,Neal A Maxwell
-Tamara W Runia,1,Neal A Maxwell
-Hutch U Fale,1,Gerald Causse
-Gerald Causse,4,Gerald Causse
-Dallin H Oaks,1,Howard W Hunter
-Quentin L Cook,1,Howard W Hunter
-D Todd Christofferson,1,Kim B Clark
-Neil L Andersen,1,Brigham Young
-Neil L Andersen,1,Bruce R McConkie
-Neil L Andersen,1,Joseph Fielding Smith
-Quentin L Cook,1,David A Edwards
-Ulisses Soares,1,Marion G Romney
-James G O Fantone,1,Marion G Romney
-Ulisses Soares,1,Tonja Maree Davis
-Quentin L Cook,1,Joseph B Wirthlin
-Paul H Sinclair,1,W Christopher Waddell
+Source,Target,Weight
+Tracy Y Browning,Russell M Nelson,2
+B Corey Cuvelier,Russell M Nelson,2
+Peter M Johnson,Russell M Nelson,3
+Ozani Farias,Russell M Nelson,1
+James E Evanson,Russell M Nelson,4
+Quentin L Cook,Russell M Nelson,8
+Dallin H Oaks,Russell M Nelson,3
+Andrea Munoz Spannaus,Russell M Nelson,2
+Sean Douglas,Russell M Nelson,3
+John D Amos,Russell M Nelson,5
+Ronald M Barcellos,Russell M Nelson,2
+David J Wunderli,Russell M Nelson,2
+Michael Cziesla,Russell M Nelson,6
+Hutch U Fale,Russell M Nelson,3
+Jeremy R Jaggi,Russell M Nelson,3
+J Anette Dennis,Russell M Nelson,1
+Brik V Eyre,Russell M Nelson,1
+Gerrit W Gong,Russell M Nelson,1
+Timothy L Farnes,Russell M Nelson,1
+Ronald A Rasband,Russell M Nelson,1
+D Todd Christofferson,Russell M Nelson,3
+Gary E Stevenson,Russell M Nelson,3
+Matthew S Holland,Russell M Nelson,2
+Chad H Webb,Russell M Nelson,6
+Ulisses Soares,Russell M Nelson,2
+Edward Dube,Russell M Nelson,1
+Matthew J Eyring,Russell M Nelson,1
+Kristin M Yee,Russell M Nelson,5
+Clark G Gilbert,Russell M Nelson,9
+Edward B Rowe,Russell M Nelson,2
+Kelly R Johnson,Russell M Nelson,3
+Carlos A Godoy,Russell M Nelson,1
+Kevin G Brown,Russell M Nelson,3
+Patrick Kearon,Russell M Nelson,4
+Dieter F Uchtdorf,Russell M Nelson,2
+Aaron T Hall,Russell M Nelson,1
+Steven C Barlow,Russell M Nelson,3
+Dale G Renlund,Russell M Nelson,6
+Neil L Andersen,Russell M Nelson,1
+Alan R Walker,Russell M Nelson,1
+David A Bednar,Russell M Nelson,1
+Paul H Sinclair,Russell M Nelson,1
+Gerald Causse,Russell M Nelson,1
+Pedro X Larreal,Russell M Nelson,1
+Rosemary K Chibota,Russell M Nelson,1
+Edward Dube,Dallin H Oaks,1
+Jeremiah J Morgan,Dallin H Oaks,1
+Kevin G Brown,Dallin H Oaks,1
+Gabriel W Reid,Dallin H Oaks,1
+Edward B Rowe,Dallin H Oaks,2
+J Anette Dennis,Dallin H Oaks,2
+Kristin M Yee,Dallin H Oaks,2
+Taniela B Wakolo,Dallin H Oaks,1
+Thabo Lebethoa,Dallin H Oaks,1
+Ulisses Soares,Dallin H Oaks,1
+Tracy Y Browning,Dallin H Oaks,1
+Eduardo F Ortega,Dallin H Oaks,1
+Patricio M Giuffra,Dallin H Oaks,1
+D Todd Christofferson,Dallin H Oaks,4
+Brian J Holmes,Dallin H Oaks,3
+Christian C Chigbundu,Dallin H Oaks,1
+Hutch U Fale,Dallin H Oaks,2
+Patrick Kearon,Dallin H Oaks,2
+Dale G Renlund,Dallin H Oaks,4
+Ciro Schmeil,Dallin H Oaks,1
+Gary E Stevenson,Dallin H Oaks,2
+Neil L Andersen,Dallin H Oaks,6
+Wan Liang Wu,Dallin H Oaks,1
+David A Bednar,Dallin H Oaks,1
+Thierry K Mutombo,Dallin H Oaks,2
+Chi Hong Wong,Dallin H Oaks,1
+Sean Douglas,Dallin H Oaks,2
+Ronald A Rasband,Dallin H Oaks,3
+Steven C Barlow,Dallin H Oaks,1
+Paul H Sinclair,Dallin H Oaks,2
+John D Amos,Dallin H Oaks,1
+Dieter F Uchtdorf,Dallin H Oaks,1
+Alfred Kyungu,Dallin H Oaks,3
+Alan R Walker,Dallin H Oaks,1
+Aaron T Hall,Dallin H Oaks,1
+Jeremy R Jaggi,Dallin H Oaks,1
+Andrea Munoz Spannaus,Dallin H Oaks,3
+Gerrit W Gong,Dallin H Oaks,3
+David J Wunderli,Dallin H Oaks,2
+Matthew J Eyring,Dallin H Oaks,2
+Rosemary K Chibota,Dallin H Oaks,1
+Susan H Porter,Dallin H Oaks,1
+Clark G Gilbert,Dallin H Oaks,9
+Michael John U Teh,Dallin H Oaks,4
+Quentin L Cook,Dallin H Oaks,1
+Pedro X Larreal,Dallin H Oaks,2
+Andrea Munoz Spannaus,Dieter F Uchtdorf,1
+Dale G Renlund,Dieter F Uchtdorf,1
+Gary E Stevenson,Dieter F Uchtdorf,3
+Hutch U Fale,Dieter F Uchtdorf,1
+Kristin M Yee,Dieter F Uchtdorf,1
+Michael Cziesla,Dieter F Uchtdorf,2
+Paul H Sinclair,Dieter F Uchtdorf,3
+Michael A Dunn,Dieter F Uchtdorf,1
+Patrick Kearon,Dieter F Uchtdorf,1
+Kevin G Brown,Dieter F Uchtdorf,1
+Thabo Lebethoa,Dieter F Uchtdorf,1
+Gary E Stevenson,John A Widtsoe,1
+Tracy Y Browning,Aurelia Spencer Rogers,1
+Patrick Kearon,Henry B Eyring,1
+Dale G Renlund,Henry B Eyring,1
+Quentin L Cook,Henry B Eyring,1
+J Anette Dennis,Henry B Eyring,1
+Hutch U Fale,Henry B Eyring,1
+Andrea Munoz Spannaus,Henry B Eyring,1
+Tracy Y Browning,Henry B Eyring,1
+Christian C Chigbundu,Henry B Eyring,1
+Dieter F Uchtdorf,Henry B Eyring,1
+Brik V Eyre,Susan H Porter,1
+David J Wunderli,Patrick Kearon,1
+Steven C Barlow,Patrick Kearon,1
+J Anette Dennis,Patrick Kearon,1
+Timothy L Farnes,Patrick Kearon,1
+Kevin G Brown,Patrick Kearon,1
+Jeremiah J Morgan,Patrick Kearon,1
+Dallin H Oaks,Patrick Kearon,1
+Aaron T Hall,Patrick Kearon,1
+Brik V Eyre,Patrick Kearon,1
+Michael Cziesla,Patrick Kearon,1
+Paul H Sinclair,Patrick Kearon,1
+Kevin J Hathaway,Patrick Kearon,1
+Hutch U Fale,Patrick Kearon,1
+Vaiangina Sikahema,Jeffrey R Holland,1
+Brik V Eyre,Jeffrey R Holland,1
+Steven C Barlow,Jeffrey R Holland,1
+Jeremiah J Morgan,Jeffrey R Holland,1
+Kristin M Yee,Jeffrey R Holland,1
+Clark G Gilbert,Jeffrey R Holland,2
+Kevin G Brown,Jeffrey R Holland,1
+Michael Cziesla,Jeffrey R Holland,1
+J Anette Dennis,Jeffrey R Holland,1
+Patrick Kearon,Jeffrey R Holland,1
+Dieter F Uchtdorf,Marvin J Ashton,1
+Eduardo F Ortega,Ronald A Rasband,1
+Paul H Sinclair,Ronald A Rasband,1
+Hutch U Fale,Ronald A Rasband,1
+Clark G Gilbert,Ronald A Rasband,1
+Ronald A Rasband,Ronald A Rasband,3
+Ronald A Rasband,Elaine L Jack,2
+Patrick Kearon,Gordon B Hinckley,1
+Neil L Andersen,Gordon B Hinckley,1
+Ronald A Rasband,Gordon B Hinckley,3
+Quentin L Cook,Gordon B Hinckley,1
+D Todd Christofferson,Gordon B Hinckley,1
+Kevin G Brown,Gordon B Hinckley,1
+Jorge T Becerra,Gordon B Hinckley,1
+Patrick Kearon,Spencer W Kimball,1
+Dallin H Oaks,Spencer W Kimball,2
+Gerald Causse,Spencer W Kimball,1
+Rosemary K Chibota,Spencer W Kimball,1
+Henry B Eyring,Spencer W Kimball,1
+Quentin L Cook,Spencer W Kimball,2
+Ronald A Rasband,Spencer W Kimball,1
+Jorge T Becerra,David A Bednar,1
+Chad H Webb,David A Bednar,1
+D Todd Christofferson,David A Bednar,1
+Kristin M Yee,David A Bednar,1
+David A Bednar,David A Bednar,1
+Neil L Andersen,David A Bednar,1
+Jeremy R Jaggi,David A Bednar,1
+Hutch U Fale,David A Bednar,1
+Gabriel W Reid,David A Bednar,1
+Quentin L Cook,David A Bednar,1
+Brian J Holmes,David A Bednar,1
+Jeremiah J Morgan,David A Bednar,1
+Paul H Sinclair,David A Bednar,1
+Gerrit W Gong,David A Bednar,1
+Thierry K Mutombo,David A Bednar,1
+Chi Hong Wong,David A Bednar,1
+Carlos A Godoy,David A Bednar,1
+Gary E Stevenson,David A Bednar,1
+Moises Villanueva,David A Bednar,1
+James E Evanson,David A Bednar,1
+Kevin G Brown,David A Bednar,1
+Chad H Webb,Robert D Hales,1
+Chad H Webb,Boyd K Packer,1
+David A Bednar,Boyd K Packer,1
+Aaron T Hall,Dale G Renlund,2
+Hutch U Fale,Dale G Renlund,1
+Ciro Schmeil,Dale G Renlund,2
+Tamara W Runia,Dale G Renlund,1
+Steven C Barlow,Dale G Renlund,2
+Jeremy R Jaggi,Dale G Renlund,1
+Peter M Johnson,Dale G Renlund,1
+Paul H Sinclair,Dale G Renlund,2
+Jeremy R Jaggi,Quentin L Cook,1
+Paul H Sinclair,Quentin L Cook,1
+Clark G Gilbert,Quentin L Cook,1
+John D Amos,Quentin L Cook,1
+J Anette Dennis,Quentin L Cook,1
+Kristin M Yee,Quentin L Cook,1
+Hutch U Fale,Quentin L Cook,1
+Jeremy R Jaggi,D Todd Christofferson,1
+Hutch U Fale,D Todd Christofferson,2
+Quentin L Cook,D Todd Christofferson,1
+Alan R Walker,D Todd Christofferson,1
+Kevin G Brown,D Todd Christofferson,1
+Paul H Sinclair,D Todd Christofferson,1
+Clark G Gilbert,D Todd Christofferson,1
+Brian J Holmes,D Todd Christofferson,1
+Clement M Matswagothata,D Todd Christofferson,1
+Tamara W Runia,D Todd Christofferson,1
+Jeremy R Jaggi,Neil L Andersen,1
+Neil L Andersen,Neil L Andersen,1
+Clark G Gilbert,Neil L Andersen,2
+Hutch U Fale,Neil L Andersen,1
+Jeremy R Jaggi,Patricia T Holland,1
+Kevin G Brown,Alexander Dushku,1
+Gerrit W Gong,Jedediah M Grant,1
+Gerrit W Gong,Heber C Kimball,1
+Neil L Andersen,David O McKay,1
+Dallin H Oaks,David O McKay,1
+David A Bednar,David O McKay,1
+Gerrit W Gong,David O McKay,1
+Quentin L Cook,David O McKay,3
+Hutch U Fale,Gary E Stevenson,1
+Dale G Renlund,Gary E Stevenson,1
+Andrea Munoz Spannaus,Gary E Stevenson,1
+Quentin L Cook,Gary E Stevenson,1
+Kristin M Yee,Gary E Stevenson,1
+Michael Cziesla,Gary E Stevenson,1
+Dale G Renlund,M Russell Ballard,1
+Michael Cziesla,M Russell Ballard,2
+Alfred Kyungu,Thomas S Monson,1
+Steven C Barlow,Thomas S Monson,1
+Ronald A Rasband,Thomas S Monson,1
+Michael Cziesla,Thomas S Monson,1
+Alfred Kyungu,Gerrit W Gong,1
+Paul H Sinclair,Gerrit W Gong,1
+Taniela B Wakolo,Gerrit W Gong,1
+Hutch U Fale,Gerrit W Gong,2
+Quentin L Cook,Gerrit W Gong,1
+Patrick Kearon,Shayne M Bowen,1
+Patrick Kearon,Joseph F Smith,1
+Ulisses Soares,Joseph F Smith,1
+J Anette Dennis,Ulisses Soares,1
+Hutch U Fale,Ulisses Soares,1
+Alfred Kyungu,Ulisses Soares,1
+Clark G Gilbert,J Anette Dennis,1
+J Anette Dennis,J Anette Dennis,2
+J Anette Dennis,Robert C Gay,1
+Thabo Lebethoa,Tamara W Runia,1
+Clark G Gilbert,Tamara W Runia,2
+Steven C Barlow,Tamara W Runia,1
+J Anette Dennis,Tamara W Runia,1
+Steven C Barlow,Ezra Taft Benson,1
+Thierry K Mutombo,Ezra Taft Benson,1
+Susan H Porter,Ezra Taft Benson,1
+Peter M Johnson,Peter M Johnson,1
+Carlos A Godoy,James E Faust,1
+Neil L Andersen,James E Faust,1
+John D Amos,Clark G Gilbert,1
+Clark G Gilbert,Clark G Gilbert,4
+Paul H Sinclair,Clark G Gilbert,1
+Hutch U Fale,Clark G Gilbert,1
+Kristin M Yee,Kristin M Yee,1
+Kristin M Yee,Camille N Johnson,1
+Kristin M Yee,James E Talmage,1
+Clark G Gilbert,Lawrence E Corbridge,1
+Clark G Gilbert,Robert S Wood,1
+David J Wunderli,Richard G Scott,1
+Tamara W Runia,Neal A Maxwell,1
+Gerald Causse,Neal A Maxwell,1
+Hutch U Fale,Gerald Causse,1
+Gerald Causse,Gerald Causse,4
+Dallin H Oaks,Howard W Hunter,1
+Quentin L Cook,Howard W Hunter,1
+D Todd Christofferson,Kim B Clark,1
+Neil L Andersen,Brigham Young,1
+Neil L Andersen,Bruce R McConkie,1
+Neil L Andersen,Joseph Fielding Smith,1
+James G O Fantone,Marion G Romney,1
+Ulisses Soares,Marion G Romney,1
+Quentin L Cook,Joseph B Wirthlin,1
+Paul H Sinclair,W Christopher Waddell,1
