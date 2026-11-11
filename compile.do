@@ -1,4 +1,4 @@
-/* Below, I compile all 3 Conference matrices into one long adjacency matrix, match everyone's full names, and collapse so each speaker appears only once. In the end, I get an edge list (edgelist.csv) with labels conducive for analysis in Gephi. */
+/* Below, I compile all 3 Conference matrices into one long adjacency matrix, match everyone's full names, and collapse so each speaker appears only once. In the end, I get an edge list (edgelist.csv) with labels conducive for analysis in Gephi, as well as a complete node list (nodelist.csv) which can be used to make an attribute matrix. */
 
 
 // Import October 2026 Conference data
@@ -59,7 +59,7 @@ preserve
 	save `labels', replace
 restore
 
-// Rename columns to numbered stubs
+// Rename columns to numbered stubs for easy reshaping
 local i 0
 foreach v of local actors {
 	local ++i
@@ -73,7 +73,7 @@ foreach v of varlist cc* {
 collapse (sum) cc*, by(id)
 isid id
 
-// Reshape long and attach full names
+// Now, make an edge list. Reshape long and attach full names
 reshape long cc, i(id) j(j)
 keep if cc > 0 & !missing(cc)
 
@@ -88,3 +88,20 @@ order Source Target Weight
 
 // Export
 export delimited using "$path/edgelist.csv", replace
+
+// Now, make a full node list that includes boht in- and out-citation nodes - this is for an attribute matrix
+preserve
+	collapse (sum) incite = Weight, by(Source)
+	rename Source Id
+	tempfile source
+	save `source'
+restore
+
+preserve
+	collapse (sum) outcite = Weight, by(Target)
+	rename Target Id
+	merge 1:1 Id using `source', nogen
+	replace incite = 0 if missing(incite)
+	replace outcite = 0 if missing(outcite)
+	export delimited using "$path/nodelist.csv", replace
+restore
